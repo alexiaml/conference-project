@@ -1,4 +1,4 @@
-# web1-basic
+# conference-project
 
 Alexia Lazcano's conference project website for accessibility and usability.
 
