@@ -1,6 +1,7 @@
 # conference-project
 
 Alexia Lazcano's conference project website for accessibility and usability.
+https://alexiaml.github.io/conference-project/
 
 
 ***
